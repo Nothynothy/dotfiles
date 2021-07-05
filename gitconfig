@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nothem6@gmail.com
+	name = Simon Granger
